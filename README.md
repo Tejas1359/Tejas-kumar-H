@@ -88,13 +88,13 @@ Creation of dashboards and reporting systems to simplify complex data.
 ## Skills
 
 **Programming:** Python, SQL
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-**Web:** HTML, CSS
-**Tools:** Git, GitHub
+## **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+## **Web:** HTML, CSS
+## **Tools:** Git, GitHub
 
 ---
 
 ## Contact
 
-📧 Email: [tejaskumarh135999@gmail.com](mailto:tejaskumarh135999@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/tejas-kumar-h-bb5554328/?skipRedirect=true
+Email: [tejaskumarh135999@gmail.com](mailto:tejaskumarh135999@gmail.com)
+LinkedIn: https://www.linkedin.com/in/tejas-kumar-h-bb5554328/?skipRedirect=true
