@@ -1,10 +1,11 @@
-# Tejas Kumar H
+# About me
+## Tejas Kumar H
 
 AI Developer | Data Analyst | Machine Learning Engineer
 
 ---
 
-## About
+## Summary
 
 I develop data-driven solutions and machine learning models to solve practical problems.
 My work focuses on exploratory data analysis, predictive modeling, and building web-based applications.
