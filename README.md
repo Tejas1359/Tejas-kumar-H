@@ -87,10 +87,10 @@ Creation of dashboards and reporting systems to simplify complex data.
 
 ## Skills
 
-**Programming:** Python, SQL
-## **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-## **Web:** HTML, CSS
-## **Tools:** Git, GitHub
+* **Programming:** Python, SQL
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+* **Web:** HTML, CSS
+* **Tools:** Git, GitHub
 
 ---
 
