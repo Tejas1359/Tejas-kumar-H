@@ -96,5 +96,5 @@ Creation of dashboards and reporting systems to simplify complex data.
 
 ## Contact
 
-📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: [tejaskumarh135999@gmail.com](mailto:tejaskumarh135999@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/tejas-kumar-h-bb5554328/?skipRedirect=true
